@@ -1,0 +1,17 @@
+# Local dependencies and generated output
+node_modules/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+*.log
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite*
+.DS_Store
+Thumbs.db
